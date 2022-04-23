@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caknooo</h1>
-<h3 align="center">A Beginner And trying to catch up</h3>
+<h3 align="center">A Beginner and Trying To Catch Up</h3>
 
 - 🌱 I’m currently learning **Algorithm**
 
